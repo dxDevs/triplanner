@@ -1,4 +1,6 @@
-# triplanner
-no.1 dx team project 
+#### triplanner
+#no.1 dx team project 
 
-System Architecture
+### System Architecture
+
+
