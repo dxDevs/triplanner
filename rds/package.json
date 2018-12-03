@@ -1,0 +1,10 @@
+{
+  "name": "rds",
+  "version": "1.0.0",
+  "description": "Triplanner Back end API for Graqhql Lambda",
+  "main": "index.js",
+  "repository": "https://github.com/dxDevs/triplanner",
+  "author": "jnpark",
+  "license": "MIT"
+}
+
